@@ -1,0 +1,36 @@
+<?php include("header.html");?>
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+            <div class="jumbotron">
+                 <form class="form-signin" action="/index.php/edit/" method="post" enctype="multipart/form-data" >
+
+                        <div class="modal-header">
+                            <h4 class="modal-title">Edit Profiles</h4>
+                        </div>
+                        <div class="modal-body">
+                            <div class="form-group">
+                                <label for="message-text" class="control-label">Nickname:</label>
+                                <input type="text" name="nickname" value="<?php echo $this->user->getnickname();?>" class="form-control" style="width:90%;display:inline-block">
+                            </div>
+                            <div class="form-group">
+                                <label for="message-text" class="control-label">Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</label>
+                                <input type="text" name="email" value="<?php echo htmlspecialchars($this->user->getemail(), ENT_QUOTES);?>" class="form-control" style="width:90%;display:inline-block">
+                            </div>
+                            <div class="form-group">
+                                <label for="message-text" class="control-label">Avatar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</label>
+                                <input type="file" name="avatar" class="btn btn-lg btn-info" style="display:inline-block">
+                            </div>
+                            <div class="form-group">
+                                <label for="message-text" class="control-label">Code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</label>
+                                <input type="text" name="code" class="form-control" style="width:100px;display:inline-block">
+                                <img  title="refresh" src="/index.php/captcha" align="absbottom" onclick="this.src='/index.php/captcha?'+Math.random();">
+                            </div>
+                            <div class="modal-footer">
+                                <input type="submit" name="submit" value="submit" class="btn btn-primary">
+                            </div>
+                        </div>
+                  </form>
+            </div>
+        </div>
+      </div>
+    </div>
+<?php include("footer.html");?>

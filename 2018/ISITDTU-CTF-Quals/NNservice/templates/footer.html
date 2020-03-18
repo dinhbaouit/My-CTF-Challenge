@@ -1,0 +1,14 @@
+    <script src="/static/js/jquery.min.js"></script>
+    <script src="/static/js/bootstrap.min.js"></script>
+    <script>
+    var arrays=document.location.pathname.split('/');
+
+    var page=arrays.pop();
+    while(page==""){
+        page=arrays.pop();
+    }
+    page = page.substring(0,1).toUpperCase()+page.substring(1);
+    $('li:contains('+page+')').attr('class','active')
+    </script>
+  </body>
+</html>

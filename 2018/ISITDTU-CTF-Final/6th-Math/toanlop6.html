@@ -1,0 +1,22 @@
+<script>
+var d = prompt("d: ");
+var h = prompt("h: ");
+var x = d + 9301;
+var y = h - 124;
+
+var s = x * y;
+if(s == 10383982692113)
+{
+	var t = x+y;
+	t = x**2 - t;
+	if (t == 73283432362916635000)
+	{
+		var d2 = d**2;
+		var dh = d*h;
+		var h2 = h**2;
+		var expr = d2 + dh + h2;
+		alert("flag: ISITDTU{"+expr+"}");
+	}
+}
+
+</script>

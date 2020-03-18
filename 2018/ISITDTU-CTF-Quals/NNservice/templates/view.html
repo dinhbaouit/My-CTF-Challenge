@@ -1,0 +1,25 @@
+<?php include("header.html");?>
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+
+                <?php if($this->view==null){?>
+                    <div class="jumbotron">
+                        <h2>Nothing!</h2>
+                        <p></p>
+                        <p>You haven't wrote anything!</p>
+                    </div>
+                <?php }else{ ?>
+                    <?php for($i=0;$i<count($this->view);$i++){?>
+                        <div class="jumbotron">
+                            <h2><?php echo htmlspecialchars($this->view[$i][2], ENT_QUOTES);?></h2>
+                                <p></p>
+                                <p><?php echo htmlspecialchars($this->view[$i][3], ENT_QUOTES);?></p>
+                            <p>
+                                <a class="btn btn-info" href="/index.php/view/article/<?php echo $this->view[$i][0]?>" role="button">View raw &raquo;</a>
+                            </p>
+                        </div>
+                <?php }}?>
+
+        </div>
+      </div>
+    </div>
+<?php include("footer.html");?>
