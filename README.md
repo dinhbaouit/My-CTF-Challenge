@@ -9,6 +9,7 @@ Challenge Name | Write Up
 [IZ](./2018/ISITDTU-CTF-Quals/iz) |  [Write up](https://www.youtube.com/watch?v=9bY7ysRhD9w&feature=youtu.be)
 
 [Friss](./2018/ISITDTU-CTF-Quals/friss) | [Write up](https://fireshellsecurity.team/isitdtu-friss/)
+
 [XoXoPwn](./2018/ISITDTU-CTF-Quals/xoxopwn) | [Write up](https://rls1004.github.io/2018-07-29-isitdtu-writeup-xoxopwn/)
 
 [NNService](./2018/ISITDTU-CTF-Quals/NNservice) | [Write up](https://www.facebook.com/notes/nguy%E1%BB%85n-ti%E1%BA%BFn-giang/writeup-dtu-ctf-web/1750411038406187/)
@@ -18,9 +19,13 @@ Challenge Name | Write Up
 Challenge Name | Write Up 
 --- | --- 
 [Toan Lop 6](./2018/ISITDTU-CTF-Final/6th-Math) | TODO
+
 [Game Snake](./2018/ISITDTU-CTF-Final/Game-Snake) | TODO
+
 [Honey Pot](./2018/ISITDTU-CTF-Final/HoneyPot) | TODO
+
 [Image Reviewer](./2018/ISITDTU-CTF-Final/Image-Reviewer) | TODO
+
 [Song Kiem](./2018/ISITDTU-CTF-Final/Song-Kiem) | [Write up](https://0xd0ff9.wordpress.com/2018/09/10/song-kiem-isitdtu-final-2018/)
 
 
