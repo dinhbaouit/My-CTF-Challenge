@@ -23,7 +23,6 @@ Challenge Name | Write Up
 
 Challenge Name | Write Up 
 --- | --- |
-[Toan Lop 6](./2018/ISITDTU-CTF-Final/6th-Math) | TODO
 [Game Snake](./2018/ISITDTU-CTF-Final/Game-Snake) | TODO
 [Honey Pot](./2018/ISITDTU-CTF-Final/HoneyPot) | TODO
 [Image Reviewer](./2018/ISITDTU-CTF-Final/Image-Reviewer) | TODO
@@ -47,3 +46,16 @@ Challenge Name | Write Up
 
 
 
+## 2019
+
+### ISITDTU CTF Quals
+Challenge Name | Write Up 
+--- | --- |
+[XSSGAME 1](./2019/ISITDTU-CTF-Quals/XSS-Game-1) |  [Intent Write up](https://0xd0ff9.wordpress.com/2019/07/01/isitdtu-ctf-2019-xssgame-1/), [Unintent](https://graneed.hatenablog.com/entry/2019/06/30/224928)
+[XSSGAME 2](./2019/ISITDTU-CTF-Quals/XSS-Game-2))| TODO
+
+### ISITDTU CTF Final
+Challenge Name | Write Up 
+--- | --- |
+[Toan Lop 6](./2019/ISITDTU-CTF-Final/6th-Math) | TODO
+[Multiweb](./2019/ISITDTU-CTF-Final/Multiweb) | [Write up](https://medium.com/@peterjson/isitdtu-ctf-final-2019-web-write-ups-c845ce85808e)
