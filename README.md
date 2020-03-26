@@ -52,7 +52,7 @@ Challenge Name | Write Up
 Challenge Name | Write Up 
 --- | --- |
 [XSSGAME 1](./2019/ISITDTU-CTF-Quals/XSS-Game-1) |  [Intent Write up](https://0xd0ff9.wordpress.com/2019/07/01/isitdtu-ctf-2019-xssgame-1/), [Unintent Write Up](https://graneed.hatenablog.com/entry/2019/06/30/224928)
-[XSSGAME 2](./2019/ISITDTU-CTF-Quals/XSS-Game-2))| TODO
+[XSSGAME 2](./2019/ISITDTU-CTF-Quals/XSS-Game-2)| TODO
 
 ### ISITDTU CTF Final
 Challenge Name | Write Up 
