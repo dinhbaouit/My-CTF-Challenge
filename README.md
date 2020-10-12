@@ -59,3 +59,11 @@ Challenge Name | Write Up
 --- | --- |
 [Toan Lop 6](./2019/ISITDTU-CTF-Final/6th-Math) | TODO
 [Multiweb](./2019/ISITDTU-CTF-Final/Multiweb) | [Write up](https://medium.com/@peterjson/isitdtu-ctf-final-2019-web-write-ups-c845ce85808e)
+
+
+## 2020
+
+### ISITDTU CTF Quals
+Challenge Name | Write Up 
+--- | --- |
+[Unexploitable](./2020/ISITDTU-CTF-Quals/Unexploitable) |  [Write up](./2020/ISITDTU-CTF-Quals/Unexploitable/readme.md)
